@@ -3,5 +3,5 @@ AA
 <<<<<<< HEAD
 CCC
 =======
-BBB
+CCC
 >>>>>>> feature1
