@@ -1,3 +1,7 @@
 1123
 AA
+<<<<<<< HEAD
 CCC
+=======
+BBB
+>>>>>>> feature1
